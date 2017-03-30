@@ -1,0 +1,24 @@
+{
+  "name": "twatt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyjuan/twatt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyjuan/twatt/issues"
+  },
+  "homepage": "https://github.com/anthonyjuan/twatt#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "oauth": "^0.9.15"
+  }
+}
